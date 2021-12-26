@@ -1,0 +1,6 @@
+**/*.md
+**/*.svg
+dist/
+
+package-lock.json
+yarn.lock

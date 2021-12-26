@@ -1,0 +1,27 @@
+{
+  "name": "crawlers",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".prettierrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sallerli1/crawlers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sallerli1/crawlers/issues"
+  },
+  "homepage": "https://github.com/sallerli1/crawlers#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.4",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.4"
+  }
+}
